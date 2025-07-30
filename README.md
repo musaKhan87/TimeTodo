@@ -1,5 +1,9 @@
-# TimeTodo
-A simple and responsive To-Do app to manage daily tasks efficiently using React
+# ✅ Todo App
+
+A beautifully simple and responsive Todo List App built with **React** and **React Icons**. This app lets you easily manage your daily tasks with functionalities like add, check/uncheck, edit, and delete.
+
+
+---
 
 ## 🚀 Features
 
