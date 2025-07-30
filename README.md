@@ -42,7 +42,7 @@ A simple and responsive To-Do app to manage daily tasks efficiently using React
 
 ```bash
 # Clone the repo
-git clone https://github.com/musaKhan87/Todo-App.git
+git clone https://github.com/musaKhan87/TimeTodo.git
 
 # Navigate to the folder
 cd Todo-App
